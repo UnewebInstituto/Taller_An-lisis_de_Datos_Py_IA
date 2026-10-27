@@ -1,0 +1,49 @@
+Hola Henry envío el contenido de mañana clase IA:
+Desarrollo Detallado del Contenido
+📊 Bloque 1: Introducción al Análisis de Datos con IA (45 Minutos)
+
+    Objetivo: Comprender cómo la IA procesa información estructurada y qué ventajas ofrece frente a los métodos tradicionales en Excel.
+
+    Contenido Clave:
+
+        El valor de los datos: Del dato crudo a la toma de decisiones empresariales.
+
+        Machine Learning cotidiano: Explicación visual de cómo los modelos aprenden a identificar patrones repetitivos a partir de tablas simples (Fecha, Producto, Cantidad, Precio).
+
+        Preparación de archivos: Cómo estructurar filas y columnas correctamente para que la IA los interprete sin errores de contexto.
+
+🧠 Bloque 2: Análisis Automatizado y Predicción de Tendencias (60 Minutos)
+
+    Objetivo: Aprender a redactar prompts avanzados de analítica para extraer conclusiones de negocio y proyecciones futuras.
+
+    Contenido Clave y Práctica:
+
+        Subida segura de archivos: Cómo cargar tablas (CSV, Excel o texto estructurado) a herramientas de IA conversacional (como Deepseek o ChatGPT).
+
+        Prompts de Auditoría y Limpieza:
+
+            "Actúa como un Senior Data Scientist. Revisa esta tabla, detecta valores atípicos o errores y dame un resumen ejecutivo en 3 puntos clave."
+
+        Análisis Predictivo:
+
+            "Con base en el histórico de ventas de estos meses, ¿qué 3 oportunidades o riesgos detectas para el próximo trimestre?"
+
+🎨 Bloque 3: Transformación de Datos en Gráficos e Informes Visuales (45 Minutos)
+
+    Objetivo: Traducir los insights numéricos y textuales obtenidos de la IA en presentaciones ejecutivas profesionales listas para compartir.
+
+    Contenido Clave y Práctica:
+
+        Extracción de Insights: Cómo sintetizar explicaciones complejas de datos en mensajes claros y comerciales.
+
+        Automatización Visual con Gamma.app: Tomar las conclusiones del análisis y pasarlas a una plantilla automatizada para generar un reporte visual de alto impacto en pocos clics.
+
+🎯 Bloque 4: Cierre, Preguntas y Reto Práctico (30 Minutos)
+
+    Objetivo: Consolidar el conocimiento mediante la interacción directa y plantear un ejercicio aplicable.
+
+    Dinámica Final:
+
+        Sesión exprés de preguntas y respuestas (Q&A) sobre los errores más comunes al subir archivos a la IA.
+
+        Reto de la Clase: Subir una lista de gastos personales o de un negocio ficticio, pedirle a la IA el diagnóstico financiero y maquetar las conclusiones en una presentación visual de 4 páginas.
